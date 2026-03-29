@@ -1,5 +1,7 @@
 # SSHPot
 
+![demo](demo.png)
+
 An SSH honeypot that emulates a real OpenSSH server to capture attacker credentials, commands, and behavior. Generates threat intelligence reports with top IPs, usernames, passwords, and credential combos.
 
 ## Features
